@@ -1,0 +1,15 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+body {
+    background-image: linear-gradient(#0b462a, #16ac59, #4afa68);
+}
+
+header, footer, section {
+    margin: 22.5px;
+    
+}
+
+
